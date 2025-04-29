@@ -6,7 +6,7 @@ Backend Developer
 
 I'm a Web Developer with a passion for building robust and efficient systems. I specialize in C#, .NET, SQL Server, and a variety of other backend technologies. My goal is to always deliver high-quality solutions while continuing to learn and grow in the tech industry.
 
-* 🖥️  See my portfolio at [MyPortfolio]((https://myportfolio-nine-blond.vercel.app/))
+* 🖥️ See my portfolio at [MyPortfolio](https://myportfolio-nine-blond.vercel.app/)
 * ✉️  You can contact me at [miluchavez2005@gmail.com](mailto:miluchavez2005@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on projects
